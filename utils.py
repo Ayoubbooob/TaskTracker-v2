@@ -1,6 +1,4 @@
 import json
-from datetime import datetime
-
 TASKS_FILE = 'data.json' #TODO Add file path later 
 def load_data():
         try:
