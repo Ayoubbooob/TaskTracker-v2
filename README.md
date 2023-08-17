@@ -37,6 +37,8 @@ TaskManager is a command-line task management project created as a practical exe
     ```sh
     python3 taskmanager.py
     ```
+    ![App running](screenshots/tasktracker.png)
+
 
 ## Credits
 
