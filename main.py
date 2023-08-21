@@ -1,5 +1,13 @@
 from task import Task
 from utils import load_data, save_tasks
+
+    print("I have added this text to test merge conflicts")
+    print("I have added this text to test merge conflicts")
+
+    print("I have added this text to test merge conflicts")
+    print("I have added this text to test merge conflicts")
+
+
 def create_task(tasks):
     title= input("-----Enter the title: ")
 
