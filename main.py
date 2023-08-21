@@ -3,7 +3,6 @@ from utils import load_data, save_tasks
 def create_task(tasks):
     title= input("-----Enter the title: ")
 
-    print("I have added this text to test merge conflicts")
     description = input("Enter the description: ")
     # completedAt = update_time()
     new_task = Task(title, description)
